@@ -13,6 +13,6 @@ SETUP-01 corresponde ao pedido atual. Os títulos e recortes de SETUP-02 a SETUP
 | SETUP-05 | Definir a primeira fatia técnica | Backlog | Escopo pequeno, critérios verificáveis e autorização explícita para scaffolding futuro |
 | SETUP-06 | Planejar qualidade e entrega gradual | Backlog | Próximos passos para testes, segurança, Docker e CI/CD revisados; sem configurar antecipadamente |
 
-As issues são o acompanhamento de execução; esta nota descreve escopo e critérios. URLs e evidências serão registradas em [Sessão SETUP-01](../sessions/2026-10-15-SETUP-01.md). Não manter um segundo quadro manual com estados divergentes.
+As issues e o [Projects do FinTrack](https://github.com/users/GabrielVacirca/projects/1) são o acompanhamento de execução; esta nota descreve escopo e critérios, com o estado inicial da preparação. O quadro foi configurado com os cinco estados aprovados e as seis issues. URLs e evidências estão em [Sessão SETUP-01](../sessions/2026-10-15-SETUP-01.md). Não manter um segundo quadro manual com estados divergentes.
 
 [[decisions/ADR-002-Fluxo]] · [[product/MVP]] · [[sessions/2026-10-15-SETUP-01]]
