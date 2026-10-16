@@ -1,0 +1,37 @@
+# Segredos e ambientes locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependências, builds e caches
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+.cache/
+.turbo/
+.nx/
+.parcel-cache/
+.eslintcache
+*.tsbuildinfo
+*.log
+__pycache__/
+.pytest_cache/
+
+# Estado pessoal do Obsidian, inclusive com docs/ como vault
+**/.obsidian/workspace*.json
+**/.obsidian/cache/
+**/.obsidian/.cache/
+**/.obsidian/plugins/
+**/.trash/
+
+# Sistema e editor local
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
